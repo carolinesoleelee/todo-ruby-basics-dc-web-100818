@@ -3,11 +3,11 @@ def division(num1, num2)
 end
 
 def assign_variable(name)
-  puts = "#{name}" 
+  puts = "#{name}"
 end
 
 def argue
-
+  "I'm right are you are wrong!"
 end
 
 def greeting(greeting, name)
