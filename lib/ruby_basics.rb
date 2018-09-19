@@ -2,8 +2,8 @@ def division(num1, num2)
   30 / 5
 end
 
-def assign_variable
-
+def assign_variable(name)
+  puts = "#{name}" 
 end
 
 def argue
