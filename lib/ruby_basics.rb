@@ -7,7 +7,7 @@ def assign_variable(name)
 end
 
 def argue
-  sorry = "I'm right are you are wrong!"
+  puts "I'm right are you are wrong!"
 
 end
 
