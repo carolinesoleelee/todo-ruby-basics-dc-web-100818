@@ -1,5 +1,5 @@
 def division(num1, num2)
-  40 / 5
+  30 / 5
 end
 
 def assign_variable
