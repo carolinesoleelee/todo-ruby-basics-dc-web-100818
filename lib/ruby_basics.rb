@@ -1,17 +1,17 @@
 def division(num1, num2)
- 
+  20 / 5
 end
 
-def assign_variable(value)
-  
+def assign_variable
+
 end
 
 def argue
-  
+
 end
 
-def greeting
-
+def greeting(name)
+   puts = "Hello #{name}!"
 end
 
 def return_a_value
